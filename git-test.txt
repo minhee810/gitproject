@@ -8,3 +8,4 @@ git diff : 잘 사용하지 않음
 git difftool [commit id] : 특정 commit 과의 변경 사항 비교 가능.
 
 - git branch coupon : 브랜치 생성 명령어
+- git switch coupon : 브랜치 변경 명령어
