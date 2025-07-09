@@ -1,4 +1,4 @@
-hello
+메인 브랜치에서 코드 수정함
 my name is minhee!
 
 2025.07.06
