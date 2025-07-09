@@ -9,3 +9,5 @@ git difftool [commit id] : 특정 commit 과의 변경 사항 비교 가능.
 
 - git branch coupon : 브랜치 생성
 - git switch coupon : 브랜치 변경
+
+- 다시 main 브랜치에서 commit
